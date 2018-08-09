@@ -4,8 +4,8 @@
     "type": "library",
     "license": "LGPL-3.0",
 	"require": {
-        "php": ">=7.2.0",
-        "php-64bit": "*"
+        "php": ">=7.2.0"
+        // "php-64bit": "*"
     },
     "autoload": {
         "psr-4": {
